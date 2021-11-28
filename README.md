@@ -1,6 +1,6 @@
 # Heart Disease Classification Project 
 
-### Project Goal:
+### Project Goal
 Classify patients with heart disease based on other indicating feature variables such as age, bmi...etc.
 
 ### Attribute Information
@@ -23,7 +23,7 @@ Classify patients with heart disease based on other indicating feature variables
 
 Kaggle Heart Disease UCI: https://www.kaggle.com/ronitf/heart-disease-uci
 
-### ML Classification Models Used:
+### ML Classification Models Used
 - Logistic Regression
 - K-Nearest Neighbours Classifier
 - Random Forest Classifier
